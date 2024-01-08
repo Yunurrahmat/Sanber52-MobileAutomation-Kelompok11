@@ -1,0 +1,3 @@
+emailInput_LoginPage : '//android.widget.EditText[@resource-id="com.example.myapplication:id/username"]'
+passwordInput_LoginPage : '//android.widget.EditText[@resource-id="com.example.myapplication:id/password"]'
+signIn_button_LoginPage : '//android.widget.Button[@resource-id="com.example.myapplication:id/signIn"]'
