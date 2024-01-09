@@ -1,5 +1,5 @@
 *** Settings ***
-# Resource          ../pageObject/base/base.robot
+Resource          ../pageObject/base/base.robot
 Resource          ../pageObject/homePageObject/homePage.robot
 Resource          ../pageObject/loginPageObject/loginPage.robot
 Resource          ../pageObject/bookPageObject/bookOnWayPage.robot
