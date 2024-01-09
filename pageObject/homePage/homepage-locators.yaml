@@ -1,0 +1,4 @@
+appLogo: //android.widget.ImageView[@resource-id="com.example.myapplication:id/imageView4"]
+loginButton: //android.widget.Button[@resource-id="com.example.myapplication:id/login"]
+searchButton: //android.widget.Button[@resource-id="com.example.myapplication:id/button6" and @text="Search"]
+checkInButton: //android.widget.Button[@resource-id="com.example.myapplication:id/button6" and @text="Check in"]
