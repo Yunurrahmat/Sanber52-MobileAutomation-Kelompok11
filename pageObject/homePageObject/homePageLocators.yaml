@@ -1,0 +1,5 @@
+logo_HomePage :   '//android.widget.ImageView[@resource-id="com.example.myapplication:id/imageView4"]'
+signIN_button_homepage: '//android.widget.Button[@resource-id="com.example.myapplication:id/login"]'
+userName_text_homePage: '//android.widget.TextView[@resource-id="com.example.myapplication:id/textView"]'
+book_button_homePage: '//android.widget.Button[@resource-id="com.example.myapplication:id/book"]'
+code_booking: '//android.widget.CheckedTextView[@resource-id="com.example.myapplication:id/checkedTextView"]'

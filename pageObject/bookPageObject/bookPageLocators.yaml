@@ -1,0 +1,40 @@
+book_button: '//android.widget.Button[@resource-id="com.example.myapplication:id/book_flight"]'
+oneWay_button : '//android.support.v7.app.ActionBar.Tab[@content-desc="One Way"]'
+roundTrip_button: '//android.support.v7.app.ActionBar.Tab[@content-desc="Round Trip"]'
+
+#form City
+formCity_button: '//android.widget.Spinner[@resource-id="com.example.myapplication:id/spinnerFrom"]'
+newyork: '//android.widget.TextView[@resource-id="android:id/text1" and @text="New York"]'
+chicago: '//android.widget.TextView[@resource-id="android:id/text1" and @text="Chicago"]'
+toronto: '//android.widget.TextView[@resource-id="android:id/text1" and @text="Toronto"]'
+
+#To City
+toCity_button: '//android.widget.Spinner[@resource-id="com.example.myapplication:id/spinnerTo"]'
+london: '//android.widget.TextView[@resource-id="android:id/text1" and @text="London"]'
+paris: '//android.widget.TextView[@resource-id="android:id/text1" and @text="Paris"]'
+ottawa: '//android.widget.TextView[@resource-id="android:id/text1" and @text="Ottawa"]'
+
+#Class
+class_button: '//android.widget.Spinner[@resource-id="com.example.myapplication:id/spinnerClass"]'
+economy: '//android.widget.TextView[@resource-id="android:id/text1" and @text="Economy"]'
+first: '//android.widget.TextView[@resource-id="android:id/text1" and @text="First"]'
+business: '//android.widget.TextView[@resource-id="android:id/text1" and @text="Business"]'
+
+
+
+startDate_button : '//android.widget.TextView[@resource-id="com.example.myapplication:id/textStartDate"]'
+17Ags19: '//android.view.View[@content-desc="17 August 2019"]'
+29Ags19: '//android.view.View[@content-desc="29 August 2019"]'
+okbtn: '//android.widget.Button[@resource-id="android:id/button1"]'
+1Ags: '//android.view.View[@content-desc="01 August 2019"]'
+
+endDate_button: '//android.widget.TextView[@resource-id="com.example.myapplication:id/textEndDate"]'
+flight_button: '//android.widget.RadioButton[@resource-id="com.example.myapplication:id/radioButtonFlight"]'
+flightHotel_button: '//android.widget.RadioButton[@resource-id="com.example.myapplication:id/radioButtonFlightHotel"]'
+checkboxDay_button: '//android.widget.CheckBox[@resource-id="com.example.myapplication:id/checkBoxDay"]'
+
+price: '//android.widget.Button[@resource-id="com.example.myapplication:id/price1"]'
+confirm_button: '//android.widget.Button[@resource-id="com.example.myapplication:id/confirm_order"]'
+
+
+

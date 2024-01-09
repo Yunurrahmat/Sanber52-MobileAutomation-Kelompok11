@@ -5,8 +5,8 @@ Variables                                ../homePage/homepage-locators.yaml
 
 *** Keywords ***
 # Tujuan: Verifikasi aplikasi berhasil login dan memunculkan halaman home login
-# Step 1:Buka Aplikasi Flight
-# Step 2:Memunculkan halaman home
+# Step 1: Buka Aplikasi Flight
+# Step 2: Memunculkan halaman home
 # Step 3: mengklik tombol login
 # Step 4: Verifikasi halaman login
 # Step 4: Input Username di textbox username
