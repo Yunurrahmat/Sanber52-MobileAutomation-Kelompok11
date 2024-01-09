@@ -1,0 +1,6 @@
+search_Button1: //android.widget.Button[@resource-id="com.example.myapplication:id/button6" and @text="Search"]
+text_Flight_Number: '//android.widget.TextView[@resource-id="com.example.myapplication:id/enterFlight"]'
+flight_Number: '//android.widget.EditText[@resource-id="com.example.myapplication:id/flight_number"]'
+button_search_flight: '//android.widget.Button[@resource-id="com.example.myapplication:id/searchFlight"]'
+search_Result: '//android.widget.Toast[@text="Please enter valid Flight Number"]'
+logo_Home_Page:  '//android.widget.ImageView[@resource-id="com.example.myapplication:id/imageView4"]'

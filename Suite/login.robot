@@ -1,7 +1,7 @@
 *** Settings ***
-Resource               ../pageObjects/base.robot
-Resource               ../pageObjects/homePage/homePage.robot
-Resource               ../pageObjects/login/login.robot
+Resource               ../pageObject/base/base.robot
+Resource               ../pageObject/homePage/homePage.robot
+Resource               ../pageObject/login/login.robot
 
 
 
